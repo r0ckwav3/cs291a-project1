@@ -20,6 +20,10 @@ body {
   font-weight: bold;
 }
 
+.faq-table tr {
+  background-color: #f2f2f2;
+}
+
 .faq-table tr:nth-child(even) {
   background-color: #fafafa;
 }
