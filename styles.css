@@ -12,3 +12,25 @@
 .profile-image{
   width: 20em
 }
+
+.faq-table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2em;
+  font-size: 1em;
+}
+
+.faq-table th, .faq-table td {
+  border: 1px solid #ccc;
+  padding: 0.75em 1em;
+  text-align: left;
+}
+
+.faq-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+.faq-table tr:nth-child(even) {
+  background-color: #fafafa;
+}
