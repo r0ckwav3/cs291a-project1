@@ -1,0 +1,7 @@
+# .gitignore for a static webpage
+
+# System files
+.DS_Store
+
+# Environment files
+.env
